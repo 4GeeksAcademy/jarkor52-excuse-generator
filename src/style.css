@@ -1,1 +1,28 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 40px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  #excuse {
+    margin-top: 40px;
+    font-size: 24px;
+  }
+  
